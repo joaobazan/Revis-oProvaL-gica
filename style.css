@@ -4,13 +4,17 @@
 }
 
 .cabecalho {
-    background-color: red;
+    background-color: rgba(218, 67, 67, 0.815);
 }
 
 .navegacao {
-    background-color: blue;
+    background-color: rgb(56, 76, 165);
 }
 
 .secao {
     background-color: blueviolet;
+}
+
+.rodape {
+    background-color: gray;
 }
